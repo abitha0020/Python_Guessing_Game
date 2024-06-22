@@ -12,3 +12,7 @@ responsive and visually appealing. The application initializes the game variable
 checks the user's guess and updates the interface accordingly, and resets the game when starting a
 new round. This interactive game provides an engaging experience for users, combining
 simplicity with functionality.
+
+
+
+
